@@ -1,0 +1,11 @@
+﻿Название поля;Тип данных;Описание поля
+h_fiodr_id;string;Уникальный номер записи в таблице
+surname;string;Фамилия
+name;string;Имя
+patronymic;string;Отчество
+birthday_year;tinyint;Год рождения
+birthday_month;tinyint;Месяц рождения
+birthday_day;tinyint;День рождения
+src _nm;string;Название источника, откуда берутся данные
+task_nm;string;Название таска DAG^ сборки DV
+load_dttm;timestamp;Служебное поле, указывает время записи в таблицу
